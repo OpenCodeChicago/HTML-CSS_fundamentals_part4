@@ -15,6 +15,13 @@ In this lesson, we explored the following key concepts:
 
 ---
 
+### Screenshots:
+
+![Open Code Chicago](images/colors.jpg) _Screenshot 1
+(Figma Design)_
+
+---
+
 ## Getting Started
 
 To explore the content of this repository:
