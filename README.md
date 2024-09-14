@@ -11,6 +11,8 @@
 
 In this lesson, we explored the following key concepts:
 
+**Figma Design**: https://www.figma.com/design/iHl3A3APDrKguJrxA4l1O6/Untitled?node-id=0-1&t=HqVPgqDloQwl2R9a-1
+
 ---
 
 ## Getting Started
