@@ -137,6 +137,7 @@ main {
   align-self: flex-end;
   transition: all 0.3s ease;
   background-color: #ff8800;
+  color: #f8f9fa;
 }
 
 .btn:hover {
@@ -200,4 +201,8 @@ main {
   position: absolute;
   top: -20px;
   right: 24%;
+}
+
+.footer-text {
+  color: #d4d4d4;
 }
