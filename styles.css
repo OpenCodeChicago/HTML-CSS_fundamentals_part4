@@ -57,6 +57,7 @@ footer {
   max-width: 1440px;
   background-color: #adb5bd;
   padding: 24px;
+  background-color: #0077b6;
 }
 
 ul {
@@ -81,10 +82,16 @@ h1 {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #ced4da;
+  background-color: #ffb700;
   width: 34px;
   height: 34px;
   border-radius: 200px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.header-links:hover {
+  background-color: #ff8800;
 }
 
 main {
@@ -97,7 +104,7 @@ main {
 }
 
 .container {
-  background-color: #6c757d;
+  background-color: #8ecae6;
   width: 90%;
   height: 80%;
   position: relative;
@@ -110,6 +117,7 @@ main {
   left: 50px;
   width: 440px;
   background-color: #adb5bd;
+  background-color: #73bfdc;
   padding: 24px;
   border-radius: 12px;
 
@@ -125,14 +133,14 @@ main {
   border: none;
   outline: none;
   background: none;
-  background-color: #dee2e6;
   cursor: pointer;
   align-self: flex-end;
   transition: all 0.3s ease;
+  background-color: #ff8800;
 }
 
 .btn:hover {
-  background-color: #ced4da;
+  background-color: #ff7b00;
 }
 
 .logo {
@@ -143,12 +151,14 @@ main {
 .box {
   width: 220px;
   height: 220px;
-  background-color: #898989;
   border-radius: 16px;
   position: absolute;
   bottom: -40px;
   left: 50%;
   transform: translateX(-50%);
+  background-color: #fcd45d;
+
+
 }
 
 .box2 {
@@ -159,12 +169,13 @@ main {
   position: absolute;
   bottom: 80px;
   right: 24%;
+  background-color: #fcd45d;
 }
 
 .box3 {
   width: 100px;
   height: 100px;
-  background-color: #898989;
+  background-color: #fcd45d;
   border-radius: 16px;
   position: absolute;
   bottom: 50%;
@@ -174,7 +185,7 @@ main {
 .box4 {
   width: 60px;
   height: 60px;
-  background-color: #898989;
+  background-color: #fcd45d;
   border-radius: 16px;
   position: absolute;
   top: 7%;
@@ -184,7 +195,7 @@ main {
 .box5 {
   width: 50px;
   height: 50px;
-  background-color: #898989;
+  background-color: #fcd45d;
   border-radius: 16px;
   position: absolute;
   top: -20px;
